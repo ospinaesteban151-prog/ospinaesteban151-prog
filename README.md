@@ -19,7 +19,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,js,mysql,git,linux,fedora,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,fedora,vscode&theme=dark" />
 </p>
 
 ---
@@ -39,9 +39,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.&author=Dennis%20Ritchie" />
 
-   <i>"Efficiency is the foundation of all progress."</i>
-</p>
-
-
- 
-</p>
+  
