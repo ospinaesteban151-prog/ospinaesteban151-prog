@@ -1,8 +1,19 @@
 <div align="center">
 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=180&section=header&text=Esteban%20Ospina&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Analysis%20%26%20Development%20%7C%20ADSO&descSize=16&descAlignY=58&descColor=d0eaff" />
+
+<br/>
+
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ospinaesteban151-prog&color=3B82F6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -21,16 +32,7 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode&perline=5" height="80" />
 
 </div>
 
@@ -40,15 +42,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ospinaesteban151-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ospinaesteban151-prog&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170"/>
 
 </div>
 
@@ -56,8 +58,6 @@
 
 <div align="center">
 
-> *"The only way to learn a new programming language is by writing programs in it."*
->
-> **— Dennis Ritchie**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=90&section=footer&text=%22The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.%22&fontSize=13&fontColor=94a3b8&desc=—%20Dennis%20Ritchie&descSize=14&descColor=60a5fa&fontAlignY=38&descAlignY=68" />
 
 </div>
