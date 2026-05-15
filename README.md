@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=180&section=header&text=Esteban%20Ospina&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Analysis%20%26%20Development%20%7C%20ADSO&descSize=16&descAlignY=58&descColor=d0eaff" />
+<!-- TYPING HEADER — más confiable que capsule-render -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Esteban+Ospina+%F0%9F%91%8B;Software+Analysis+%26+Development;Fedora+%7C+C%23+%7C+Laravel+%7C+PHP" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode&perline=5" height="80" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode&perline=5" />
 
 </div>
 
@@ -42,15 +42,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
+<!-- Stats card — provider alternativo más estable -->
+<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" height="175" alt="Top Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ospinaesteban151-prog&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com?user=ospinaesteban151-prog&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Trofeos -->
+<img src="https://github-profile-trophy.vercel.app/?username=ospinaesteban151-prog&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
@@ -58,6 +70,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=90&section=footer&text=%22The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.%22&fontSize=13&fontColor=94a3b8&desc=—%20Dennis%20Ritchie&descSize=14&descColor=60a5fa&fontAlignY=38&descAlignY=68" />
+> *"The only way to learn a new programming language is by writing programs in it."*
+>
+> **— Dennis Ritchie**
+
+<br/>
+
+![Wave](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=64748B&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8C)
 
 </div>
