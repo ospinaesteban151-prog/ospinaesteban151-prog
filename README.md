@@ -43,9 +43,7 @@
 <div align="center">
 
 <!-- Stats card — provider alternativo más estable -->
-<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="175" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" height="175" alt="Top Languages" />
+
 
 </div>
 
