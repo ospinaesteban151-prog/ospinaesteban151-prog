@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=Esteban%20Ospina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Linux%20Enthusiast&descAlignY=62&descSize=20" width="100%" />
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/Fedora-3C4E91?style=for-the-badge&logo=fedora&logoColor=white" />
