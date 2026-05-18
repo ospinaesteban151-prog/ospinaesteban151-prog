@@ -21,7 +21,7 @@
 
 ## ⚡ About Me
 
-- 🚀 Currently focused on **Software Analysis & Development (ADSO)**.
+- 🚀 Currently focused on **Software Analysis & Development**.
 - 🐧 **Fedora Workstation** user and terminal lover.
 - 🔧 Building solutions with **C#, .NET, PHP, and Laravel**.
 - 🧠 Interested in **local AI** implementation and software architecture.
