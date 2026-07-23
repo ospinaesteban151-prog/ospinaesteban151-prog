@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- TYPING HEADER — más confiable que capsule-render -->
+<!-- TYPING HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Esteban+Ospina+%F0%9F%91%8B;Software+Analysis+%26+Development;Fedora+%7C+C%23+%7C+Laravel+%7C+Avalonia" alt="Typing SVG" />
 
 <br/>
@@ -42,15 +42,17 @@
 
 </div>
 
-### Currently Learning
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white" />
+![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" />
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=visualstudio&logoColor=white" />
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
@@ -60,12 +62,11 @@
 
 <div align="center">
 
-| 🎓 **Formation** | 🎯 **Side Quest** |
+| **Formation** | **Side Quest** |
 | :--- | :--- |
 | Software Analysis & Development | Avalonia UI & XAML |
 | Windows Forms (C#) | Cross-platform desktop apps |
 | PHP & Laravel | Modern UI design |
-| SQL & Databases | MVVM pattern |
 
 </div>
 
@@ -75,7 +76,10 @@
 
 <div align="center">
 
-<!-- Stats card — provider alternativo más estable -->
+<!-- Stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 
 </div>
 
@@ -104,13 +108,6 @@
 >
 > **— Dennis Ritchie**
 
-<br/>
-
-[![Avalonia Side Quest](https://img.shields.io/badge/🎯_Side_Quest-Avalonia_UI-8A2BE2?style=for-the-badge)](https://avaloniaui.net/)
-&nbsp;
-[![Learning XAML](https://img.shields.io/badge/📚_Learning-XAML-0C54C2?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/desktop/xaml/)
-
-<br/>
 <br/>
 
 ![Wave](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=64748B&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8C)
