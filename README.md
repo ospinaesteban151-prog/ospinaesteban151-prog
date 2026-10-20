@@ -72,6 +72,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" height="150" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ospinaesteban151-prog&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="GitHub Streak" />
+
+</div>
+
+---
+
 <div align="center">
 
 > *"The only way to learn a new programming language is by writing programs in it."*
