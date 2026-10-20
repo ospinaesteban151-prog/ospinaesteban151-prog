@@ -38,8 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode&perline=5" />
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode,visualstudio&perline=6" />
 </div>
 
 ---
@@ -53,7 +52,7 @@
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 &nbsp;
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 </div>
 
 ---
