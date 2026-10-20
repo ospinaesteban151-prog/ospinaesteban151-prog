@@ -72,14 +72,9 @@
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ospinaesteban151-prog&theme=flat&no-bg=true&row=1" alt="GitHub Trophies" />
-
-<br/>
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" height="150" alt="Top Languages" />
