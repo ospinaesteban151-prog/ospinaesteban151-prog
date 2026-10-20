@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ospinaesteban151-prog&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ospinaesteban151-prog&theme=flat&no-bg=true&row=1" alt="GitHub Trophies" />
 
 <br/>
 <br/>
