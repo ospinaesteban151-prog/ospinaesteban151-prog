@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="https://www.freecodecamp.org/certification/ospinaesteban151-prog/foundational-c-sharp-with-microsoft" target="_blank">
+<a href="https://www.freecodecamp.org/certification/fcc-00646fe6-0408-44d3-aa0f-bf1ff9cfb688/foundational-c-sharp-with-microsoft" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft-Foundational_C%23-2396F3?style=for-the-badge&logo=csharp&logoColor=white" alt="Foundational C# with Microsoft" />
 </a>
 &nbsp;
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/EF_SET-C1_Advanced_(64%2F100)-7A22CE?style=for-the-badge&logo=duolingo&logoColor=white" alt="EF SET C1 Advanced" />
 </a>
 &nbsp;
-<a href="https://accounts.skilljar.com/accounts/profile/rst126clzdyy" target="_blank">
+<a href="https://verify.skilljar.com/c/62ugkroz63ym" target="_blank">
   <img src="https://img.shields.io/badge/Postman-API_Testing_Path_v12-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Testing v12" />
 </a>
 
@@ -54,9 +54,9 @@
 
 | **Credential** | **Issuer** | **Status / Verification** |
 | :--- | :--- | :---: |
-| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify]([https://www.freecodecamp.org/certification/ospinaesteban151-prog/foundational-c-sharp-with-microsoft](https://www.freecodecamp.org/certification/fcc-00646fe6-0408-44d3-aa0f-bf1ff9cfb688/foundational-c-sharp-with-microsoft)) |
+| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify](https://www.freecodecamp.org/certification/fcc-00646fe6-0408-44d3-aa0f-bf1ff9cfb688/foundational-c-sharp-with-microsoft) |
 | **EF SET English Certificate (C1 Advanced)** | EF Standard English Test | [Verify (Score: 64/100)](https://cert.efset.org/en/UgXJA9) |
-| **API Testing Path (v12)** | Postman Academy | [Verify](https://accounts.skilljar.com/accounts/profile/rst126clzdyy) |
+| **API Testing Path (v12)** | Postman Academy | [Verify](https://verify.skilljar.com/c/62ugkroz63ym) |
 | **Relational Database Certification** | freeCodeCamp | *In Progress ⌛* |
 | **JavaScript Algorithms & Data Structures** | freeCodeCamp | *Upcoming ⌛* |
 | **Google Developer Badges** | Google Cloud | *Upcoming ⌛* |
