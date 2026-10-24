@@ -54,7 +54,7 @@
 
 | **Credential** | **Issuer** | **Status / Verification** |
 | :--- | :--- | :---: |
-| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify](https://www.freecodecamp.org/certification/ospinaesteban151-prog/foundational-c-sharp-with-microsoft) |
+| **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify]([https://www.freecodecamp.org/certification/ospinaesteban151-prog/foundational-c-sharp-with-microsoft](https://www.freecodecamp.org/certification/fcc-00646fe6-0408-44d3-aa0f-bf1ff9cfb688/foundational-c-sharp-with-microsoft)) |
 | **EF SET English Certificate (C1 Advanced)** | EF Standard English Test | [Verify (Score: 64/100)](https://cert.efset.org/en/UgXJA9) |
 | **API Testing Path (v12)** | Postman Academy | [Verify](https://accounts.skilljar.com/accounts/profile/rst126clzdyy) |
 | **Relational Database Certification** | freeCodeCamp | *In Progress ⌛* |
