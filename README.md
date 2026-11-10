@@ -90,9 +90,9 @@
 
 | **Formation** | **Side Quest** |
 | :--- | :--- |
-| Software Analysis & Development | Avalonia UI & XAML |
-| Windows Forms (C#) | Cross-platform desktop apps |
-| PHP & Laravel | Modern UI design |
+| Software Analysis & Development | Java & Object-Oriented Programming |
+| Windows Forms (C#) & PostgreSQL | Full-stack Web Architecture |
+| PHP & Laravel | API Testing & Automation |
 
 </div>
 
