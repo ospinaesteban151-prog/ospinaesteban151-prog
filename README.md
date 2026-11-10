@@ -13,7 +13,7 @@
 &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
-![Avalonia](https://img.shields.io/badge/Avalonia-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
+
 
 <br/>
 <br/>
@@ -30,7 +30,7 @@
 - 🐧 **Fedora Workstation** user and terminal lover.
 - 🔧 Building solutions with **C#, .NET, PHP, and Laravel**.
 - 🧠 Interested in **local AI** implementation and software architecture.
-- 🎯 **Side Quest**: Learning **Avalonia UI** & **XAML** for cross-platform desktop development.
+- 🎯 **Side Quest**: Learning **Java**.
 
 ---
 
@@ -78,11 +78,7 @@
 
 <div align="center">
 
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
-&nbsp;
-![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
-&nbsp;
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
@@ -106,9 +102,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.azurewebsites.net/api?username=ospinaesteban151-prog&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&bg_color=0D1117" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=0D1117" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=ospinaesteban151-prog&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=0D1117" alt="Top Languages" />
 
 <br/>
 
