@@ -57,9 +57,7 @@
 | **Foundational C# with Microsoft** | freeCodeCamp / Microsoft | [Verify](https://www.freecodecamp.org/certification/fcc-00646fe6-0408-44d3-aa0f-bf1ff9cfb688/foundational-c-sharp-with-microsoft) |
 | **EF SET English Certificate (C1 Advanced)** | EF Standard English Test | [Verify (Score: 64/100)](https://cert.efset.org/en/UgXJA9) |
 | **API Testing Path (v12)** | Postman Academy | [Verify](https://verify.skilljar.com/c/62ugkroz63ym) |
-| **Relational Database Certification** | freeCodeCamp | *In Progress ⌛* |
-| **JavaScript Algorithms & Data Structures** | freeCodeCamp | *Upcoming ⌛* |
-| **Google Developer Badges** | Google Cloud | *Upcoming ⌛* |
+
 
 </div>
 
