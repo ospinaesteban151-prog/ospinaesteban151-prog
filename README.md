@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Esteban+Ospina+%F0%9F%91%8B;Software+Analysis+%26+Development;Fedora+%7C+C%23+%7C+Laravel+%7C+Avalonia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Esteban+Ospina+%F0%9F%91%8B;Software+Analysis+%26+Development;Fedora+%7C+C%23+%7C+Laravel+%7C" alt="Typing SVG" />
 
 <br/>
 
