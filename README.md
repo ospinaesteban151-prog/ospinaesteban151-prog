@@ -7,12 +7,7 @@
 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 &nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-&nbsp;
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-&nbsp;
+
 
 
 <br/>
@@ -63,7 +58,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools I've used
 
 <div align="center">
 
