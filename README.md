@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode,visualstudio,bootstrap,postgresql,obsidian,postman,github,python,javascript,cloudflare,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,mysql,git,linux,vscode,visualstudio,bootstrap,postgresql,obsidian,postman,github,python,javascript,cloudflarebash&perline=6" />
 </div>
 
 ---
